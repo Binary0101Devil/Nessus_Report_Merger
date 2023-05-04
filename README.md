@@ -1,7 +1,7 @@
 # Nessus_Report_Merger
 # Binary0101Devil
 
-Step 1) download and save Devil4nessusReport in C:\nessus  
+Step 1) download and save Devil4nessusReport.ps1 in C:\nessus  
 
 Step 2) Put all nessus file in Same folder (C:\nessus)
 
